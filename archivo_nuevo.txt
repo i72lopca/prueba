@@ -2,3 +2,5 @@ Fichero inicial
 Primer cambio
 Segundo cambio
 Tercer cambio
+Cambio indeseado
+Cambio indeseado2

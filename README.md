@@ -18,11 +18,11 @@ probando la prueba
 
 > Esto es una cita
 
-`comando/
+`ls
 
 ~~~
 bloque de
 codigo
 ~~~
 
-![texto por si no se abre la imagen](http://www.uco.es/dptos/educacion/compdocentes/images/stories/fruit/logo_uco.jpg)
+![texto por si no se abre la imagen](https://bloximages.chicago2.vip.townnews.com/edmondsun.com/content/tncms/assets/v3/editorial/c/c2/cc2d0f88-0b65-11e8-a659-e765a8eb27f2/5a79eb72f0893.image.jpg)
